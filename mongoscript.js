@@ -6,7 +6,7 @@ use admin;
 db.createUser(
   {
 	user: "root_admin",
-	pwd: "LkqbVNMZ9hxxBehG",
+	pwd: "sussitDev",
 	roles: [ { role: "userAdminAnyDatabase", db: "admin" } ]
   }
 );
